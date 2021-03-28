@@ -14,5 +14,5 @@ this is a simple react js application. :slightly_smiling_face:
 ##### Bring back node_modules
 <code>npm i</code> 
 
-###### Start the server 
+##### Start the server 
 <code>npm start</code>
