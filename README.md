@@ -11,7 +11,7 @@ this is a simple react js application. :slightly_smiling_face:
 # clone this repo
  <code>git clone <`repo-link`> </code> <br/>
 
-# Bring back node_modules
+# Bring back `node_modules`
 <code>npm i</code> <br/>
 
 # Start the server 
