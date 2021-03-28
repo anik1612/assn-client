@@ -8,6 +8,6 @@ this is a simple react js application.
 * CSS3
 
 ## For observation 
-<code>git clone ~repo-link~ </code> <br/>
-<code>npm i</code> <br/>
-<code>npm start</code> <br/>
+<code>git clone ~~repo-link~~ </code> <br/><br/>
+<code>npm i</code> <br/><br/>
+<code>npm start</code> <br/><br/>
